@@ -4,7 +4,7 @@ Lorem
 
 #  💼 Experience
 
-Lorem
+I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/), where I developed core web development skills. Seeking new challenges, I joined [Aeria](https://aeria.land/), a local software house, where I significantly expanded my technical and process knowledge. Currently, I’m a member of the [Capsul Brasil](https://capsulbrasil.com.br/) team, where I design and implement scalable solutions, optimize processes, and drive innovation in large-scale projects.
 
 # 💻 Stacks
 
