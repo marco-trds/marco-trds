@@ -1,6 +1,6 @@
 #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > Hi, I'm Marco!
 
-Lorem
+I am a web and mobile solutions developer and a new technology enthusiast. With 3 years of experience, I have built scalable, efficient, and profitable applications, always pursuing innovation and best practices.
 
 #  💼 Experience
 
