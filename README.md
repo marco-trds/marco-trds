@@ -8,7 +8,7 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
 
 # 💻 Stacks
 
-### 🌍 Linguagens:
+### 🌍 Languages:
 
 <div style="display: flex; align-items: center; gap: 8px;">
   <img
@@ -196,7 +196,7 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
   />
 </div>
 
-### 🤖 Testes:
+### 🤖 Tests:
 
 <div style="display: flex; align-items: center; gap: 8px;">
   <img
@@ -219,7 +219,7 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
   />
 </div>
 
-### 🛠 Ferramentas:
+### 🛠 Tools:
 
 <div style="display: flex; align-items: center; gap: 8px;">
   <img
