@@ -166,12 +166,6 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
     height="32"
   />
   <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg"
-    alt="Nest Icon"
-    width="32"
-    height="32"
-  />
-  <img
     src="https://zod.dev/logo/logo.png"
     alt="Zod Icon"
     width="32"
