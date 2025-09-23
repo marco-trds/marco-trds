@@ -83,7 +83,7 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
     height="32"
   />
   <img
-    src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925"
+    src="https://github.com/jpb06/jpb06/blob/master/icons/ReactHookForm-Dark.svg"
     alt="React Hook Form Icon"
     width="32"
     height="32"
@@ -95,26 +95,20 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
     height="32"
   />
   <img
-    src="https://www.shadcn-vue.com/favicon.ico"
+    src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4"
     alt="ShadcnUI Icon"
     width="32"
     height="32"
   />
   <img
-    src="https://zod.dev/logo/logo.png"
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Zod-Dark.svg"
     alt="Zod Icon"
     width="32"
     height="32"
   />
   <img
-    src="https://reactrouter.com/favicon-dark.png"
+    src="https://github.com/jpb06/jpb06/blob/master/icons/React-Router-Dark.svg"
     alt="React Router Icon"
-    width="32"
-    height="32"
-  />
-  <img
-    src="https://router.vuejs.org/logo.png"
-    alt="Vue Router Icon"
     width="32"
     height="32"
   />
@@ -142,6 +136,12 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
     height="32"
   />
   <img
+    src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4"
+    alt="Drizzle ORM Icon"
+    width="32"
+    height="32"
+  />
+  <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"
     alt="PostgresSQL Icon"
     width="32"
@@ -160,13 +160,19 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
     height="32"
   />
   <img
-    src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4"
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Fastify-Dark.svg"
     alt="Fastfy Icon"
     width="32"
     height="32"
   />
   <img
-    src="https://zod.dev/logo/logo.png"
+    src="https://github.com/jpb06/jpb06/blob/master/icons/SocketIO-Dark.svg"
+    alt="SocketIO Icon"
+    width="32"
+    height="32"
+  />
+  <img
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Zod-Dark.svg"
     alt="Zod Icon"
     width="32"
     height="32"
@@ -191,6 +197,12 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
   <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
     alt="Github Icon"
+    width="32"
+    height="32"
+  />
+  <img
+    src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/GithubActions-Dark.svg"
+    alt="GithubActions Icon"
     width="32"
     height="32"
   />
@@ -289,14 +301,20 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
     height="32"
   />
   <img
-    src="https://prettier.io/icon.png"
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Biome-Dark.svg"
+    alt="BiomeJS Icon"
+    width="32"
+    height="32"
+  />
+  <img
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Prettier-Dark.svg"
     alt="Prettier Icon"
     width="32"
     height="32"
   />
   <img
-    src="https://eslint.org/favicon.ico"
-    alt="Prettier Icon"
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Eslint-Dark.svg"
+    alt="ESLint Icon"
     width="32"
     height="32"
   />
