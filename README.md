@@ -184,6 +184,12 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
     height="32"
   />
   <img
+    src="https://webrtc.org/favicon.ico"
+    alt="WebRTC Icon"
+    width="32"
+    height="32"
+  />
+  <img
     src="https://github.com/jpb06/jpb06/blob/master/icons/Nginx.svg"
     alt="Nginx Icon"
     width="32"
