@@ -66,7 +66,13 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
   />
   <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"
-    alt="React Icon"
+    alt="NextJs Icon"
+    width="32"
+    height="32"
+  />
+  <img
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Axios-Dark.svg"
+    alt="Axios Icon"
     width="32"
     height="32"
   />
@@ -144,6 +150,12 @@ I began my career as an intern at [Sharp Soluções](https://sharpsolucoes.com/)
   <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"
     alt="PostgresSQL Icon"
+    width="32"
+    height="32"
+  />
+  <img
+    src="https://github.com/jpb06/jpb06/blob/master/icons/Swagger-Dark.svg"
+    alt="Swagger Icon"
     width="32"
     height="32"
   />
